@@ -55,8 +55,21 @@ tags:
     user-select: none;
     cursor: pointer;
 }
+
+.choice {
+    padding: 10px;
+    border-radius: 4px;
+    border: 2px solid rgb(var(--color-highlight));
+}
+
+.choice2 {
+    padding: 10px;
+    border-radius: 4px;
+    border: 2px solid #123456;
+}
 @end
 
 -->
  
 # idk
+<h2 class="choice2"></h2>
